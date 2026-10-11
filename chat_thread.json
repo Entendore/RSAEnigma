@@ -1,0 +1,22 @@
+{
+  "thread": [
+    {
+      "timestamp": "2025-07-11T23:05:59.648688Z",
+      "encrypted_message": "LGSYHQ",
+      "signature": "SHILXfjwb/AEGR9ICfGWP10diFxKECVueFrZ2dYDjXVsDw0g2wfPba99uCna/9kpiIQJaEq9+/KSczfMaw9xKnMtvMnebeYv6db/k/Drs3c2hfYWO4ojasf5ktRoCoJyMo1AJ5pmmyusysK965xFGqy96Io31eHiP+uIJSki1LKvBR5qVuF3EtDUt6GfxCC83z156RJRcyMRH/9I32nJ2WdPmSpu/25AzZzg6E1PaM7UVElybTpWwkque5Yvslq4EYtSTg9gNU+rH2j4+nXZos7GsxIFDXJp+jH89Kyco7TxBnrJZG2D7YLSpXtCXrP31I76yGJZtBxW8HcJAG2CKA==",
+      "encrypted_key": "BH8PudihiMA6u5muyytYu/WWh819rqYn11pfZvrqiZbP66V2Okh4/3KQwWq3GLVqgFTpk4Mje3qjBHQPQqio3i1Oyjc0Eb4cS1KT+G8MQLty09TdZ/tMWNmyp2OByqSrezycVWPMQXe+kLXo+Y/THW07nD5c9jiMJYEMvesaC75wSWtbUNREN93eFC1forfwMW8ZS6whB4y46IiWUlyb2XZWPTjfg8FAp1JKewp3jy70D7/VzdoyKQUgJ/lm3II9oI1lB1o4h6Bl4XzK93Dyf9LXxvoxwAtc5Patf6cWEArPqMgEU8j/k+4jgnosMuHHJhCIn/Dt5c2YNJRlapHiPw==",
+      "attachments": [
+        {
+          "filename": "notes.txt",
+          "encrypted_data": "CFUd9xiFKfx8d65xugQ4ajDLAdBCTLVfpdIA8sE/n3KuThWi1Xf0j5R8n5zpgulT3BnhkozqULoWgFP3UqC7EuRavzNkMoU/5rP/3AFr/U0gIXz2zqPXxOTU8CoSBPgEZyvidT7y1H0b8xqtJEjIZerYoTZYAxEcLkHWQkg0mLfZYdD7acJLu1lNVhRNMAFvnBGsaseHpb0NlwW9TgDYm0oYjQBg3byrNBFpiSTVnQ0ugx66yQzmudiXpwdlc6ilxPr1EDMhZzX3fUPYsYhAGTo1tY8jwZX4GVbmcsyc+37/6TeRE7z9qvqFI7/IupQz4CwkN0Kq0KqcqshSq2zaGw=="
+        },
+        {
+          "filename": "image.png",
+          "encrypted_data": "A24pPYe2fFrExUaFXl2O9rzx9tsIHCN/MCyCgQSAhj6jxjamG+1d/JCBzuwDsx3hzj8DszBVv49XNK1hCz67i6nqaRoKC1fS+Wt9g9O00GtaSHCAgmxEpXgKQpOJ66jS3bwTOlbA2L0hi00xmrBdmS036VbQ1zaWIsVrL/WCt+CzMaU50jVA9GfrFFxd3sq/sZ2Y3ycTear0Xt9dCg9AxSKqxQaXWFf9Vs3tbyuSgvLLKqXSOi2z+cZIhrzHMGMAghuzRXAgnwV94aHcGTYO7ajahj5aZtSOc/6qJNU5T1rlSNnggOkkdeyJiMSsiX8o7FmQSoiaYBuOTGOXzJeZkQ=="
+        }
+      ],
+      "from": "Alice",
+      "to": "Bob"
+    }
+  ]
+}
